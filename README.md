@@ -14,7 +14,7 @@ Lifelong Learner, currently working as budagh kompeni.
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:idhamhalik2020@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Systemctl Reboot. </br>
+    - :game_die: Network is part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
