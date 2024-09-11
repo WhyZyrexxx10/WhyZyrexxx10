@@ -5,7 +5,9 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Debian%20%-blue?&logo=visual%20studio%20code&logoColor=red" />
+<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
+<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
+<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
