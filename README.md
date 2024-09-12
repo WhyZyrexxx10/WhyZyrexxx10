@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="file:///C:/Users/idham/OneDrive/Pictures/100.webp" width="100"/>
+  <img src="![image](https://github.com/user-attachments/assets/37290eba-9a5a-41d0-be38-7f2bff6e3c3c)
+" width="100"/>
 </div>
 # <summary><strong>Hi there :wave: , I'm zyrexx!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
