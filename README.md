@@ -26,12 +26,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/zyrexx10/?hl=id#">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-
-
-
-
-
-
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zyrexx10&hide_border=true&locale=id" alt="GitHub Streak" /></a>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
