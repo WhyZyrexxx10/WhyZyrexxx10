@@ -23,3 +23,4 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/zyrexx10/?hl=id#">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
