@@ -9,7 +9,7 @@ Lifelong Learner, currently working as budagh kompeni.
 ### <summary><strong>Tools:</strong></summary>
 <p>
 <img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" /> - Linux
-<img src="https://img.shields.io/badge/OS-Linux-red?&logo=kali linux" /> - kali Linux
+<img src="https://img.shields.io/badge/OS-Linux-red?&logo=kali linux" /> - kali
 <img src="https://img.shields.io/badge/Simulation-cisco-blue?&logo=cisco" /> - Cisco
 <img src="https://img.shields.io/badge/Server-debian-red?&logo=debian" /> - Debian
 </p>
