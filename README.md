@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/linux-debian-powered-by-Fmcts17uRjaHKaNrfW" width="100"/>
+  <img src="file:///C:/Users/idham/OneDrive/Pictures/100.webp" width="100"/>
 </div>
 # <summary><strong>Hi there :wave: , I'm zyrexx!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
