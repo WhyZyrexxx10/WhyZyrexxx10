@@ -8,9 +8,9 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
+<img src="https://img.shields.io/badge/OS-Linux-red?&logo=linux" /> - Linux
+<img src="https://img.shields.io/badge/Simulation-cisco-blue?&logo=cisco" /> - Cisco
+<img src="https://img.shields.io/badge/Server-debian-red?&logo=debian" /> - Debian
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
@@ -42,7 +42,6 @@ Lifelong Learner, currently working as budagh kompeni.
 
 
 
-### <summary><strong>achievement!</strong></summary>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
