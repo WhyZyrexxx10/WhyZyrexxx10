@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM5ZWw2cnhyeHh3cGpwNHo2Z3Z5ZjNtaWE1Ymx6Y3dqbmtqM25tdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAF75cy8pwWYwPiPSj/giphy.gif" width="100"/>
 </div>
  <summary><strong>Hi there :wave: , I'm zyrexx!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
